@@ -7,17 +7,17 @@ export const Hero = () => {
         <div className="text-center animate-fadeIn">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
             Quick, Quality Service
-            <span className="text-blue-600 block mt-2">You Can Trust</span>
+            <span className="text-primary block mt-2">You Can Trust</span>
           </h1>
           <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-8">
             Professional electrical services for residential and commercial properties.
             Licensed experts delivering safety and reliability.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-8 py-6">
+            <Button className="bg-primary hover:bg-primary-dark text-white text-lg px-8 py-6">
               Get Free Quote
             </Button>
-            <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50 text-lg px-8 py-6">
+            <Button variant="outline" className="border-primary text-primary hover:bg-primary-light text-lg px-8 py-6">
               Our Services
             </Button>
           </div>

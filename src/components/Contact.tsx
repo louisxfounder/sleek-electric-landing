@@ -27,7 +27,7 @@ export const Contact = () => {
                 placeholder="Tell us about your project"
                 className="bg-gray-50 min-h-[150px]"
               />
-              <Button className="w-full bg-primary hover:bg-primary/80 text-white">
+              <Button className="w-full bg-primary hover:bg-primary-dark text-white">
                 Send Message
               </Button>
             </form>
@@ -48,7 +48,7 @@ export const Contact = () => {
                 <Mail className="w-6 h-6 text-primary mt-1" />
                 <div>
                   <h4 className="font-semibold mb-1">Email</h4>
-                  <p className="text-primary-light">info@raytekelectric.com</p>
+                  <p className="text-primary-light">info@robleselectric.com</p>
                 </div>
               </div>
               
