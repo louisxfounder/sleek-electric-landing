@@ -48,7 +48,7 @@ export const Contact = () => {
                 <Mail className="w-6 h-6 text-primary mt-1" />
                 <div>
                   <h4 className="font-semibold mb-1">Email</h4>
-                  <p className="text-primary-light">info@robleselectric.com</p>
+                  <p className="text-primary-light">robleselectricservicesphx@gmail.com</p>
                 </div>
               </div>
             </div>
