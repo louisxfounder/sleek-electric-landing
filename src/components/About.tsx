@@ -43,8 +43,8 @@ export const About = () => {
           <div className="relative">
             <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80"
-                alt="Electrician at work"
+                src="/lovable-uploads/30047910-b59c-4db0-aec1-0d285519e116.png"
+                alt="Professional electrician giving thumbs up next to service van"
                 className="object-cover w-full h-full"
               />
             </div>
