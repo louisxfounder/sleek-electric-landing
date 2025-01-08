@@ -7,12 +7,10 @@ export const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-3xl sm:text-4xl font-bold text-primary-dark mb-6">
-              25+ Years of Excellence in Electrical Services
+              Your Trust, Our Priority
             </h2>
             <p className="text-lg text-gray-600 mb-8">
-              Since our establishment, we've been at the forefront of electrical innovation,
-              providing top-tier services to residential and commercial clients. Our commitment
-              to quality and safety has made us a trusted name in the industry.
+              At Roless Electric Services, we're all about dependable solutions you can trust. Our focus is delivering quality work on schedule, with clear communication at every step—keeping your home or business powered safely and efficiently.
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
