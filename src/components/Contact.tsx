@@ -1,7 +1,7 @@
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { Textarea } from "./ui/textarea";
-import { Phone, Mail, MapPin } from "lucide-react";
+import { Phone, Mail } from "lucide-react";
 
 export const Contact = () => {
   return (
@@ -49,17 +49,6 @@ export const Contact = () => {
                 <div>
                   <h4 className="font-semibold mb-1">Email</h4>
                   <p className="text-primary-light">info@robleselectric.com</p>
-                </div>
-              </div>
-              
-              <div className="flex items-start space-x-4">
-                <MapPin className="w-6 h-6 text-primary mt-1" />
-                <div>
-                  <h4 className="font-semibold mb-1">Address</h4>
-                  <p className="text-primary-light">
-                    123 Electric Avenue<br />
-                    New York, NY 10001
-                  </p>
                 </div>
               </div>
             </div>
