@@ -18,24 +18,24 @@ export const About = () => {
                 <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mb-3">
                   <Award className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="text-xl font-semibold text-primary-dark">Licensed</h3>
-                <p className="text-gray-600">Certified Experts</p>
+                <h3 className="text-xl font-semibold text-primary-dark">Certified Experts</h3>
+                <p className="text-gray-600">Fully trained for every job</p>
               </div>
               
               <div className="flex flex-col items-center text-center">
                 <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mb-3">
                   <Users className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="text-xl font-semibold text-primary-dark">5000+</h3>
-                <p className="text-gray-600">Happy Clients</p>
+                <h3 className="text-xl font-semibold text-primary-dark">Customer-Focused</h3>
+                <p className="text-gray-600">We listen and deliver</p>
               </div>
               
               <div className="flex flex-col items-center text-center">
                 <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mb-3">
                   <Clock className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="text-xl font-semibold text-primary-dark">24/7</h3>
-                <p className="text-gray-600">Support</p>
+                <h3 className="text-xl font-semibold text-primary-dark">Rapid Service</h3>
+                <p className="text-gray-600">Swift answers, faster fixes</p>
               </div>
             </div>
           </div>
