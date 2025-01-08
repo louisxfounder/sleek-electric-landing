@@ -25,9 +25,9 @@ export default {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "#0EA5E9", // Ocean Blue as our primary brand color
-          dark: "#0284C7", // Darker shade
-          light: "#D3E4FD", // Soft Blue
+          DEFAULT: "#1982c4", // New blue color
+          dark: "#1565a0", // Darker shade of the new blue
+          light: "#e6f3fb", // Lighter shade of the new blue
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
